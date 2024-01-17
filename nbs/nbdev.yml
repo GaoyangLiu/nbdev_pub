@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_pub"
+  site-url: "https://GaoyangLiu.github.io/nbdev_pub"
+  description: "first nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/GaoyangLiu/nbdev_pub"
